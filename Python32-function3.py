@@ -4,4 +4,4 @@
 def greetings(hello, first_name, last_name):
     print(f"{hello}, {first_name} {last_name}")
 
-greetings("Heyy", first_name = "Krish", last_name = "Kushwaha",)
+greetings("Heyy", last_name = "Kushwaha", first_name = "Krish")
